@@ -15,6 +15,9 @@ struct ContentView: View {
             VStack {
                 Text("Ciao ciao")
                     .padding()
+                Text("Prova Cri")
+                    .padding()
+                
                 
                 NavigationLink(destination: Page2_(), label: {Text("Page2")})
             }

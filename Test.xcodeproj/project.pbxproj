@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		43720C29271F1D4900C0BF03 /* Page2 .swift in Sources */ = {isa = PBXBuildFile; fileRef = 43720C28271F1D4800C0BF03 /* Page2 .swift */; };
+		43720C2A271F1D4900C0BF03 /* Page2 .swift in Sources */ = {isa = PBXBuildFile; fileRef = 43720C28271F1D4800C0BF03 /* Page2 .swift */; };
 		AA81DF57271F181E008814C6 /* Tests_iOS.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA81DF56271F181E008814C6 /* Tests_iOS.swift */; };
 		AA81DF59271F181E008814C6 /* Tests_iOSLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA81DF58271F181E008814C6 /* Tests_iOSLaunchTests.swift */; };
 		AA81DF63271F181E008814C6 /* Tests_macOS.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA81DF62271F181E008814C6 /* Tests_macOS.swift */; };
@@ -37,6 +39,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		43720C28271F1D4800C0BF03 /* Page2 .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Page2 .swift"; sourceTree = "<group>"; };
 		AA81DF3E271F181C008814C6 /* TestApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestApp.swift; sourceTree = "<group>"; };
 		AA81DF3F271F181C008814C6 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		AA81DF40271F181E008814C6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -99,6 +102,7 @@
 			children = (
 				AA81DF3E271F181C008814C6 /* TestApp.swift */,
 				AA81DF3F271F181C008814C6 /* ContentView.swift */,
+				43720C28271F1D4800C0BF03 /* Page2 .swift */,
 				AA81DF40271F181E008814C6 /* Assets.xcassets */,
 			);
 			path = Shared;
@@ -300,6 +304,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				AA81DF68271F181E008814C6 /* ContentView.swift in Sources */,
+				43720C29271F1D4900C0BF03 /* Page2 .swift in Sources */,
 				AA81DF66271F181E008814C6 /* TestApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -309,6 +314,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				AA81DF69271F181E008814C6 /* ContentView.swift in Sources */,
+				43720C2A271F1D4900C0BF03 /* Page2 .swift in Sources */,
 				AA81DF67271F181E008814C6 /* TestApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

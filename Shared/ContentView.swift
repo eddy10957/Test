@@ -19,6 +19,9 @@ struct ContentView: View {
                 HStack{
                     NavigationLink(destination: Page2_(), label: {Text("Page2")})
                     
+                    Rectangle()
+                        .frame(width: 2, height: 15)
+                    
                     NavigationLink(destination: Page3_(), label: {Text("Eddo")})
                 }
             }

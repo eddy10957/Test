@@ -15,11 +15,12 @@ struct ContentView: View {
             VStack {
                 Text("Ciao ciao")
                     .padding()
-                Text("Prova Cri")
-                    .padding()
                 
-                
-                NavigationLink(destination: Page2_(), label: {Text("Page2")})
+                HStack{
+                    NavigationLink(destination: Page2_(), label: {Text("Page2")})
+                    
+                    NavigationLink(destination: Page3_(), label: {Text("Eddo")})
+                }
             }
         }
         

@@ -19,6 +19,8 @@
 		AA81DF69271F181E008814C6 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA81DF3F271F181C008814C6 /* ContentView.swift */; };
 		AA81DF6A271F181E008814C6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AA81DF40271F181E008814C6 /* Assets.xcassets */; };
 		AA81DF6B271F181E008814C6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AA81DF40271F181E008814C6 /* Assets.xcassets */; };
+		AA81DF8127200F1D008814C6 /* Page3.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA81DF8027200F1D008814C6 /* Page3.swift */; };
+		AA81DF8227200F1D008814C6 /* Page3.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA81DF8027200F1D008814C6 /* Page3.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -52,6 +54,7 @@
 		AA81DF5E271F181E008814C6 /* Tests macOS.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Tests macOS.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		AA81DF62271F181E008814C6 /* Tests_macOS.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests_macOS.swift; sourceTree = "<group>"; };
 		AA81DF64271F181E008814C6 /* Tests_macOSLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests_macOSLaunchTests.swift; sourceTree = "<group>"; };
+		AA81DF8027200F1D008814C6 /* Page3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Page3.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +107,7 @@
 				AA81DF3F271F181C008814C6 /* ContentView.swift */,
 				43720C28271F1D4800C0BF03 /* Page2 .swift */,
 				AA81DF40271F181E008814C6 /* Assets.xcassets */,
+				AA81DF8027200F1D008814C6 /* Page3.swift */,
 			);
 			path = Shared;
 			sourceTree = "<group>";
@@ -303,6 +307,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AA81DF8127200F1D008814C6 /* Page3.swift in Sources */,
 				AA81DF68271F181E008814C6 /* ContentView.swift in Sources */,
 				43720C29271F1D4900C0BF03 /* Page2 .swift in Sources */,
 				AA81DF66271F181E008814C6 /* TestApp.swift in Sources */,
@@ -313,6 +318,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AA81DF8227200F1D008814C6 /* Page3.swift in Sources */,
 				AA81DF69271F181E008814C6 /* ContentView.swift in Sources */,
 				43720C2A271F1D4900C0BF03 /* Page2 .swift in Sources */,
 				AA81DF67271F181E008814C6 /* TestApp.swift in Sources */,
